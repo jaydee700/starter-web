@@ -13,3 +13,7 @@ Some more changes
 Some more changes
 
 I love changes
+
+This will be staged
+
+This will be untracked
